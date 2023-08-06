@@ -12,7 +12,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/NimanthikaAbeyrathna/](https://github.com/NimanthikaAbeyrathna/)
 
 - 📫 How to reach me **nimanthikaabeyrathna@gmail.com**
--  website [https://nimanthikaabeyrathna.github.io/personal-portfolio/]
+-  website (https://nimanthikaabeyrathna.github.io/personal-portfolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
